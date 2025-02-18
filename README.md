@@ -1,6 +1,5 @@
 # **Business Intelligence for EV Charging Networks**  
-🔗 **Dataset:** [U.S. Electric Vehicle Charging Stations (Open Data)](https://afdc.energy.gov/data_download)  
-📍 **GitHub Repo:** (Add your repository link here)  
+🔗 **Dataset:** [U.S. Electric Vehicle Charging Stations (Open Data)](https://afdc.energy.gov/data_download)   
 
 ---
 
